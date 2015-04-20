@@ -1,0 +1,1 @@
+We provide a tool that can be easily installed in the image processing toolbox ImageJ. It can be used to segment both focal adhesions and stress fibers. Furthermore, the segmented data can be turned into a VTK formatted triangular network.
